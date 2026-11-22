@@ -1,0 +1,32 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# ---- OS / editor ----
+.DS_Store
+.vscode/
+.idea/
+
+# ---- Datasets (re-download, see README) ----
+Fall26ML-HW4/ResNet/data/
+Fall26ML-HW4/LibAUC/data/
+*.tar.gz
+*.npz
+
+# ---- Model checkpoints (~45 MB each; results live in history.json / *.png) ----
+*.ckpt
+*.pt
+*.pth
+
+# ---- Local backups, archives, logs ----
+Fall26ML-HW4/ResNet/runs_partial_backup/
+Fall26ML-HW4/ResNet/logs/
+Fall26ML-HW4/ResNet/rerun_*.log
+slurm-*.out
+*.zip
+
+# ---- Claude Code local settings ----
+.claude/settings.local.json

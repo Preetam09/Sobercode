@@ -1,0 +1,980 @@
+===== resnet18 lr=0.003  Thu Nov 19 18:36:05 CST 2026
+--- Preparing Data ---
+### Training... ###
+Epoch 1 Loss 1.754616 lr 0.003000 Duration 35.426 seconds.
+Epoch 2 Loss 1.313492 lr 0.003000 Duration 41.683 seconds.
+Epoch 3 Loss 1.129003 lr 0.003000 Duration 51.900 seconds.
+Epoch 4 Loss 1.025175 lr 0.003000 Duration 48.102 seconds.
+Epoch 5 Loss 0.949694 lr 0.003000 Duration 46.725 seconds.
+Epoch 6 Loss 0.895207 lr 0.003000 Duration 49.513 seconds.
+Epoch 7 Loss 0.847952 lr 0.003000 Duration 45.824 seconds.
+Epoch 8 Loss 0.813030 lr 0.003000 Duration 42.356 seconds.
+Epoch 9 Loss 0.790919 lr 0.003000 Duration 44.391 seconds.
+Epoch 10 Loss 0.759476 lr 0.003000 Duration 42.963 seconds.
+  [eval @ epoch 10] valid loss 0.8365 acc 0.7206 | test loss 0.8642 acc 0.7133
+Checkpoint has been created.
+Epoch 11 Loss 0.675927 lr 0.002000 Duration 56.705 seconds.
+Epoch 12 Loss 0.661366 lr 0.002000 Duration 53.306 seconds.
+Epoch 13 Loss 0.641381 lr 0.002000 Duration 57.339 seconds.
+Epoch 14 Loss 0.631764 lr 0.002000 Duration 56.277 seconds.
+Epoch 15 Loss 0.618742 lr 0.002000 Duration 57.859 seconds.
+Epoch 16 Loss 0.614822 lr 0.002000 Duration 57.005 seconds.
+Epoch 17 Loss 0.600406 lr 0.002000 Duration 58.553 seconds.
+Epoch 18 Loss 0.582848 lr 0.002000 Duration 54.506 seconds.
+Epoch 19 Loss 0.579545 lr 0.002000 Duration 56.220 seconds.
+Epoch 20 Loss 0.573560 lr 0.002000 Duration 54.831 seconds.
+  [eval @ epoch 20] valid loss 0.6533 acc 0.7808 | test loss 0.6905 acc 0.7678
+Checkpoint has been created.
+Epoch 21 Loss 0.517046 lr 0.001333 Duration 57.264 seconds.
+Epoch 22 Loss 0.504041 lr 0.001333 Duration 56.544 seconds.
+Epoch 23 Loss 0.491452 lr 0.001333 Duration 55.105 seconds.
+Epoch 24 Loss 0.486908 lr 0.001333 Duration 54.797 seconds.
+Epoch 25 Loss 0.484020 lr 0.001333 Duration 53.928 seconds.
+Epoch 26 Loss 0.480749 lr 0.001333 Duration 53.350 seconds.
+Epoch 27 Loss 0.469309 lr 0.001333 Duration 56.865 seconds.
+Epoch 28 Loss 0.470629 lr 0.001333 Duration 58.362 seconds.
+Epoch 29 Loss 0.458018 lr 0.001333 Duration 61.082 seconds.
+Epoch 30 Loss 0.454730 lr 0.001333 Duration 73.142 seconds.
+  [eval @ epoch 30] valid loss 0.6105 acc 0.8038 | test loss 0.6348 acc 0.7887
+Checkpoint has been created.
+Epoch 31 Loss 0.411530 lr 0.000889 Duration 63.834 seconds.
+Epoch 32 Loss 0.402024 lr 0.000889 Duration 53.172 seconds.
+Epoch 33 Loss 0.396574 lr 0.000889 Duration 54.660 seconds.
+Epoch 34 Loss 0.387499 lr 0.000889 Duration 57.544 seconds.
+Epoch 35 Loss 0.381420 lr 0.000889 Duration 52.357 seconds.
+Epoch 36 Loss 0.380869 lr 0.000889 Duration 56.240 seconds.
+Epoch 37 Loss 0.376539 lr 0.000889 Duration 57.866 seconds.
+Epoch 38 Loss 0.370314 lr 0.000889 Duration 52.300 seconds.
+Epoch 39 Loss 0.364484 lr 0.000889 Duration 48.346 seconds.
+Epoch 40 Loss 0.364997 lr 0.000889 Duration 52.551 seconds.
+  [eval @ epoch 40] valid loss 0.5934 acc 0.8040 | test loss 0.6231 acc 0.8030
+Checkpoint has been created.
+Epoch 41 Loss 0.327580 lr 0.000593 Duration 53.589 seconds.
+Epoch 42 Loss 0.323534 lr 0.000593 Duration 53.785 seconds.
+Epoch 43 Loss 0.310071 lr 0.000593 Duration 57.570 seconds.
+Epoch 44 Loss 0.303430 lr 0.000593 Duration 54.833 seconds.
+Epoch 45 Loss 0.302629 lr 0.000593 Duration 53.342 seconds.
+Epoch 46 Loss 0.303328 lr 0.000593 Duration 53.709 seconds.
+Epoch 47 Loss 0.301010 lr 0.000593 Duration 58.643 seconds.
+Epoch 48 Loss 0.296794 lr 0.000593 Duration 59.201 seconds.
+Epoch 49 Loss 0.294387 lr 0.000593 Duration 53.423 seconds.
+Epoch 50 Loss 0.292906 lr 0.000593 Duration 50.507 seconds.
+  [eval @ epoch 50] valid loss 0.5439 acc 0.8312 | test loss 0.5600 acc 0.8213
+Checkpoint has been created.
+Epoch 51 Loss 0.264797 lr 0.000395 Duration 51.077 seconds.
+Epoch 52 Loss 0.259126 lr 0.000395 Duration 52.635 seconds.
+Epoch 53 Loss 0.253565 lr 0.000395 Duration 54.280 seconds.
+Epoch 54 Loss 0.248189 lr 0.000395 Duration 52.327 seconds.
+Epoch 55 Loss 0.248440 lr 0.000395 Duration 52.403 seconds.
+Epoch 56 Loss 0.247056 lr 0.000395 Duration 50.688 seconds.
+Epoch 57 Loss 0.246310 lr 0.000395 Duration 49.503 seconds.
+Epoch 58 Loss 0.234682 lr 0.000395 Duration 49.866 seconds.
+Epoch 59 Loss 0.230992 lr 0.000395 Duration 54.786 seconds.
+Epoch 60 Loss 0.231330 lr 0.000395 Duration 53.329 seconds.
+  [eval @ epoch 60] valid loss 0.5501 acc 0.8262 | test loss 0.5630 acc 0.8308
+Checkpoint has been created.
+Epoch 61 Loss 0.217767 lr 0.000263 Duration 53.823 seconds.
+Epoch 62 Loss 0.211402 lr 0.000263 Duration 49.137 seconds.
+Epoch 63 Loss 0.206896 lr 0.000263 Duration 48.141 seconds.
+Epoch 64 Loss 0.201694 lr 0.000263 Duration 51.857 seconds.
+Epoch 65 Loss 0.203888 lr 0.000263 Duration 55.836 seconds.
+Epoch 66 Loss 0.202622 lr 0.000263 Duration 62.556 seconds.
+Epoch 67 Loss 0.196904 lr 0.000263 Duration 45.499 seconds.
+Epoch 68 Loss 0.195372 lr 0.000263 Duration 49.733 seconds.
+Epoch 69 Loss 0.189993 lr 0.000263 Duration 49.007 seconds.
+Epoch 70 Loss 0.194660 lr 0.000263 Duration 48.972 seconds.
+  [eval @ epoch 70] valid loss 0.5779 acc 0.8320 | test loss 0.5873 acc 0.8273
+Checkpoint has been created.
+Epoch 71 Loss 0.171382 lr 0.000176 Duration 50.090 seconds.
+Epoch 72 Loss 0.173517 lr 0.000176 Duration 50.376 seconds.
+Epoch 73 Loss 0.172345 lr 0.000176 Duration 49.917 seconds.
+Epoch 74 Loss 0.163103 lr 0.000176 Duration 50.400 seconds.
+Epoch 75 Loss 0.163127 lr 0.000176 Duration 50.172 seconds.
+Epoch 76 Loss 0.166006 lr 0.000176 Duration 53.283 seconds.
+Epoch 77 Loss 0.160455 lr 0.000176 Duration 61.597 seconds.
+Epoch 78 Loss 0.158514 lr 0.000176 Duration 54.646 seconds.
+Epoch 79 Loss 0.159384 lr 0.000176 Duration 49.754 seconds.
+Epoch 80 Loss 0.155940 lr 0.000176 Duration 48.474 seconds.
+  [eval @ epoch 80] valid loss 0.5923 acc 0.8352 | test loss 0.6022 acc 0.8338
+Checkpoint has been created.
+Epoch 81 Loss 0.147647 lr 0.000117 Duration 51.435 seconds.
+Epoch 82 Loss 0.146192 lr 0.000117 Duration 49.884 seconds.
+Epoch 83 Loss 0.145205 lr 0.000117 Duration 52.369 seconds.
+Epoch 84 Loss 0.139921 lr 0.000117 Duration 47.532 seconds.
+Epoch 85 Loss 0.136157 lr 0.000117 Duration 50.813 seconds.
+Epoch 86 Loss 0.136163 lr 0.000117 Duration 54.132 seconds.
+Epoch 87 Loss 0.133536 lr 0.000117 Duration 49.781 seconds.
+Epoch 88 Loss 0.136303 lr 0.000117 Duration 49.400 seconds.
+Epoch 89 Loss 0.133516 lr 0.000117 Duration 55.615 seconds.
+Epoch 90 Loss 0.133356 lr 0.000117 Duration 55.004 seconds.
+  [eval @ epoch 90] valid loss 0.6093 acc 0.8322 | test loss 0.6203 acc 0.8391
+Checkpoint has been created.
+Epoch 91 Loss 0.127984 lr 0.000078 Duration 58.988 seconds.
+Epoch 92 Loss 0.126360 lr 0.000078 Duration 67.186 seconds.
+Epoch 93 Loss 0.121859 lr 0.000078 Duration 61.991 seconds.
+Epoch 94 Loss 0.123635 lr 0.000078 Duration 52.401 seconds.
+Epoch 95 Loss 0.120987 lr 0.000078 Duration 48.103 seconds.
+Epoch 96 Loss 0.119600 lr 0.000078 Duration 47.657 seconds.
+Epoch 97 Loss 0.116155 lr 0.000078 Duration 51.456 seconds.
+Epoch 98 Loss 0.118561 lr 0.000078 Duration 46.008 seconds.
+Epoch 99 Loss 0.121819 lr 0.000078 Duration 49.768 seconds.
+Epoch 100 Loss 0.119903 lr 0.000078 Duration 49.811 seconds.
+  [eval @ epoch 100] valid loss 0.6108 acc 0.8356 | test loss 0.6153 acc 0.8394
+Checkpoint has been created.
+### Test or Validation ###
+Restored model parameters from /Users/saivignesh/Desktop/projects/TAMU/HW-4_ML/Fall26ML-HW4/ResNet/runs/resnet18_lr0.003/model-100.ckpt
+Test accuracy: 0.8356
+### Test or Validation ###
+Restored model parameters from /Users/saivignesh/Desktop/projects/TAMU/HW-4_ML/Fall26ML-HW4/ResNet/runs/resnet18_lr0.003/model-100.ckpt
+Test accuracy: 0.8394
+===== resnet18 lr=0.01  Thu Nov 19 20:05:29 CST 2026
+--- Preparing Data ---
+### Training... ###
+Epoch 1 Loss 2.045818 lr 0.010000 Duration 41.344 seconds.
+Epoch 2 Loss 1.511779 lr 0.010000 Duration 41.399 seconds.
+Epoch 3 Loss 1.311386 lr 0.010000 Duration 42.035 seconds.
+Epoch 4 Loss 1.208663 lr 0.010000 Duration 40.948 seconds.
+Epoch 5 Loss 1.132675 lr 0.010000 Duration 41.041 seconds.
+Epoch 6 Loss 1.081542 lr 0.010000 Duration 41.422 seconds.
+Epoch 7 Loss 1.045183 lr 0.010000 Duration 40.190 seconds.
+Epoch 8 Loss 1.016059 lr 0.010000 Duration 39.353 seconds.
+Epoch 9 Loss 0.995709 lr 0.010000 Duration 39.784 seconds.
+Epoch 10 Loss 0.978761 lr 0.010000 Duration 39.301 seconds.
+  [eval @ epoch 10] valid loss 1.1841 acc 0.5958 | test loss 1.2609 acc 0.5771
+Checkpoint has been created.
+Epoch 11 Loss 0.886201 lr 0.006667 Duration 49.939 seconds.
+Epoch 12 Loss 0.872236 lr 0.006667 Duration 50.697 seconds.
+Epoch 13 Loss 0.865565 lr 0.006667 Duration 52.841 seconds.
+Epoch 14 Loss 0.852521 lr 0.006667 Duration 48.486 seconds.
+Epoch 15 Loss 0.845069 lr 0.006667 Duration 51.402 seconds.
+Epoch 16 Loss 0.837794 lr 0.006667 Duration 44.728 seconds.
+Epoch 17 Loss 0.829908 lr 0.006667 Duration 49.207 seconds.
+Epoch 18 Loss 0.827809 lr 0.006667 Duration 46.575 seconds.
+Epoch 19 Loss 0.820638 lr 0.006667 Duration 45.260 seconds.
+Epoch 20 Loss 0.815872 lr 0.006667 Duration 50.060 seconds.
+  [eval @ epoch 20] valid loss 0.9628 acc 0.6762 | test loss 0.9857 acc 0.6719
+Checkpoint has been created.
+Epoch 21 Loss 0.746112 lr 0.004444 Duration 50.523 seconds.
+Epoch 22 Loss 0.733872 lr 0.004444 Duration 53.896 seconds.
+Epoch 23 Loss 0.739123 lr 0.004444 Duration 58.763 seconds.
+Epoch 24 Loss 0.726672 lr 0.004444 Duration 51.317 seconds.
+Epoch 25 Loss 0.723491 lr 0.004444 Duration 48.142 seconds.
+Epoch 26 Loss 0.717652 lr 0.004444 Duration 45.968 seconds.
+Epoch 27 Loss 0.713699 lr 0.004444 Duration 53.212 seconds.
+Epoch 28 Loss 0.716133 lr 0.004444 Duration 52.701 seconds.
+Epoch 29 Loss 0.705721 lr 0.004444 Duration 65.800 seconds.
+Epoch 30 Loss 0.703664 lr 0.004444 Duration 70.343 seconds.
+  [eval @ epoch 30] valid loss 0.8332 acc 0.7142 | test loss 0.8571 acc 0.7098
+Checkpoint has been created.
+Epoch 31 Loss 0.653097 lr 0.002963 Duration 68.475 seconds.
+Epoch 32 Loss 0.640689 lr 0.002963 Duration 54.389 seconds.
+Epoch 33 Loss 0.637217 lr 0.002963 Duration 50.898 seconds.
+Epoch 34 Loss 0.633400 lr 0.002963 Duration 49.482 seconds.
+Epoch 35 Loss 0.626982 lr 0.002963 Duration 47.553 seconds.
+Epoch 36 Loss 0.629672 lr 0.002963 Duration 49.025 seconds.
+Epoch 37 Loss 0.621092 lr 0.002963 Duration 59.642 seconds.
+Epoch 38 Loss 0.621149 lr 0.002963 Duration 53.097 seconds.
+Epoch 39 Loss 0.613351 lr 0.002963 Duration 46.989 seconds.
+===== resnet18 lr=0.03  Thu Nov 19 20:38:05 CST 2026
+--- Preparing Data ---
+### Training... ###
+Epoch 1 Loss 2.311892 lr 0.030000 Duration 47.130 seconds.
+Epoch 2 Loss 1.717389 lr 0.030000 Duration 42.001 seconds.
+Epoch 3 Loss 1.529060 lr 0.030000 Duration 43.981 seconds.
+Epoch 4 Loss 1.440532 lr 0.030000 Duration 44.625 seconds.
+Epoch 5 Loss 1.405433 lr 0.030000 Duration 41.873 seconds.
+Epoch 6 Loss 1.372623 lr 0.030000 Duration 41.107 seconds.
+Epoch 7 Loss 1.346353 lr 0.030000 Duration 41.816 seconds.
+Epoch 8 Loss 1.335456 lr 0.030000 Duration 43.534 seconds.
+Epoch 9 Loss 1.326751 lr 0.030000 Duration 42.471 seconds.
+Epoch 10 Loss 1.315620 lr 0.030000 Duration 44.621 seconds.
+  [eval @ epoch 10] valid loss 1.5991 acc 0.4462 | test loss 1.6521 acc 0.4405
+Checkpoint has been created.
+Epoch 11 Loss 1.231592 lr 0.020000 Duration 62.254 seconds.
+Epoch 12 Loss 1.221275 lr 0.020000 Duration 53.635 seconds.
+Epoch 13 Loss 1.208043 lr 0.020000 Duration 50.960 seconds.
+Epoch 14 Loss 1.196141 lr 0.020000 Duration 50.503 seconds.
+Epoch 15 Loss 1.190498 lr 0.020000 Duration 46.708 seconds.
+Epoch 16 Loss 1.190473 lr 0.020000 Duration 51.227 seconds.
+Epoch 17 Loss 1.185208 lr 0.020000 Duration 45.933 seconds.
+Epoch 18 Loss 1.178531 lr 0.020000 Duration 52.676 seconds.
+Epoch 19 Loss 1.173318 lr 0.020000 Duration 75.443 seconds.
+Epoch 20 Loss 1.172066 lr 0.020000 Duration 55.791 seconds.
+  [eval @ epoch 20] valid loss 1.2918 acc 0.5568 | test loss 1.3446 acc 0.5441
+Checkpoint has been created.
+Epoch 21 Loss 1.103116 lr 0.013333 Duration 49.261 seconds.
+===== no_residual lr=0.003  Thu Nov 19 20:55:27 CST 2026
+--- Preparing Data ---
+### Training... ###
+Epoch 1 Loss 1.932057 lr 0.003000 Duration 41.618 seconds.
+Epoch 2 Loss 1.649614 lr 0.003000 Duration 40.610 seconds.
+Epoch 3 Loss 1.503608 lr 0.003000 Duration 44.445 seconds.
+Epoch 4 Loss 1.418466 lr 0.003000 Duration 45.045 seconds.
+Epoch 5 Loss 1.361003 lr 0.003000 Duration 45.546 seconds.
+Epoch 6 Loss 1.313338 lr 0.003000 Duration 40.600 seconds.
+Epoch 7 Loss 1.260731 lr 0.003000 Duration 38.794 seconds.
+Epoch 8 Loss 1.247261 lr 0.003000 Duration 37.972 seconds.
+Epoch 9 Loss 1.228332 lr 0.003000 Duration 37.861 seconds.
+Epoch 10 Loss 1.195562 lr 0.003000 Duration 37.561 seconds.
+  [eval @ epoch 10] valid loss 1.3118 acc 0.5644 | test loss 1.3351 acc 0.5552
+Checkpoint has been created.
+Epoch 11 Loss 1.142437 lr 0.002000 Duration 48.319 seconds.
+Epoch 12 Loss 1.117304 lr 0.002000 Duration 50.042 seconds.
+Epoch 13 Loss 1.105436 lr 0.002000 Duration 47.488 seconds.
+Epoch 14 Loss 1.115916 lr 0.002000 Duration 43.277 seconds.
+Epoch 15 Loss 1.088357 lr 0.002000 Duration 42.580 seconds.
+Epoch 16 Loss 1.094045 lr 0.002000 Duration 48.500 seconds.
+Epoch 17 Loss 1.072705 lr 0.002000 Duration 52.664 seconds.
+Epoch 18 Loss 1.073638 lr 0.002000 Duration 53.532 seconds.
+Epoch 19 Loss 1.141183 lr 0.002000 Duration 51.273 seconds.
+Epoch 20 Loss 1.145550 lr 0.002000 Duration 47.183 seconds.
+  [eval @ epoch 20] valid loss 1.1548 acc 0.6278 | test loss 1.1949 acc 0.6046
+Checkpoint has been created.
+Epoch 21 Loss 1.055439 lr 0.001333 Duration 50.052 seconds.
+Epoch 22 Loss 1.070678 lr 0.001333 Duration 48.412 seconds.
+Epoch 23 Loss 1.012255 lr 0.001333 Duration 50.613 seconds.
+Epoch 24 Loss 1.018079 lr 0.001333 Duration 50.770 seconds.
+Epoch 25 Loss 1.067119 lr 0.001333 Duration 52.268 seconds.
+Epoch 26 Loss 1.042096 lr 0.001333 Duration 49.436 seconds.
+Epoch 27 Loss 1.033535 lr 0.001333 Duration 47.810 seconds.
+Epoch 28 Loss 0.986838 lr 0.001333 Duration 44.334 seconds.
+Epoch 29 Loss 1.024818 lr 0.001333 Duration 52.355 seconds.
+Epoch 30 Loss 1.019614 lr 0.001333 Duration 48.147 seconds.
+  [eval @ epoch 30] valid loss 1.0807 acc 0.6568 | test loss 1.1101 acc 0.6421
+Checkpoint has been created.
+Epoch 31 Loss 0.970721 lr 0.000889 Duration 49.207 seconds.
+Epoch 32 Loss 0.942494 lr 0.000889 Duration 48.574 seconds.
+Epoch 33 Loss 0.939418 lr 0.000889 Duration 56.228 seconds.
+Epoch 34 Loss 0.960515 lr 0.000889 Duration 53.305 seconds.
+Epoch 35 Loss 0.955392 lr 0.000889 Duration 48.883 seconds.
+Epoch 36 Loss 0.954396 lr 0.000889 Duration 50.442 seconds.
+Epoch 37 Loss 0.953613 lr 0.000889 Duration 50.233 seconds.
+Epoch 38 Loss 0.931214 lr 0.000889 Duration 53.003 seconds.
+Epoch 39 Loss 0.921135 lr 0.000889 Duration 49.888 seconds.
+Epoch 40 Loss 0.882270 lr 0.000889 Duration 63.832 seconds.
+  [eval @ epoch 40] valid loss 0.9200 acc 0.7046 | test loss 0.9692 acc 0.6918
+Checkpoint has been created.
+Epoch 41 Loss 0.821055 lr 0.000593 Duration 57.821 seconds.
+Epoch 42 Loss 0.806149 lr 0.000593 Duration 48.438 seconds.
+Epoch 43 Loss 0.792378 lr 0.000593 Duration 47.102 seconds.
+Epoch 44 Loss 0.779419 lr 0.000593 Duration 43.416 seconds.
+Epoch 45 Loss 0.757158 lr 0.000593 Duration 47.352 seconds.
+Epoch 46 Loss 0.769054 lr 0.000593 Duration 53.256 seconds.
+Epoch 47 Loss 0.752651 lr 0.000593 Duration 58.599 seconds.
+Epoch 48 Loss 0.770174 lr 0.000593 Duration 52.904 seconds.
+Epoch 49 Loss 0.754259 lr 0.000593 Duration 51.987 seconds.
+Epoch 50 Loss 0.762566 lr 0.000593 Duration 51.767 seconds.
+  [eval @ epoch 50] valid loss 0.8243 acc 0.7264 | test loss 0.8607 acc 0.7189
+Checkpoint has been created.
+Epoch 51 Loss 0.729955 lr 0.000395 Duration 47.372 seconds.
+Epoch 52 Loss 0.715381 lr 0.000395 Duration 46.882 seconds.
+Epoch 53 Loss 0.704908 lr 0.000395 Duration 47.538 seconds.
+Epoch 54 Loss 0.702992 lr 0.000395 Duration 46.593 seconds.
+Epoch 55 Loss 0.692761 lr 0.000395 Duration 49.806 seconds.
+Epoch 56 Loss 0.701036 lr 0.000395 Duration 46.964 seconds.
+Epoch 57 Loss 0.691402 lr 0.000395 Duration 45.526 seconds.
+Epoch 58 Loss 0.686952 lr 0.000395 Duration 46.927 seconds.
+Epoch 59 Loss 0.674924 lr 0.000395 Duration 47.143 seconds.
+Epoch 60 Loss 0.675449 lr 0.000395 Duration 47.308 seconds.
+  [eval @ epoch 60] valid loss 0.7558 acc 0.7542 | test loss 0.7943 acc 0.7440
+Checkpoint has been created.
+Epoch 61 Loss 0.665388 lr 0.000263 Duration 53.466 seconds.
+Epoch 62 Loss 0.651064 lr 0.000263 Duration 65.265 seconds.
+Epoch 63 Loss 0.653520 lr 0.000263 Duration 52.752 seconds.
+Epoch 64 Loss 0.645798 lr 0.000263 Duration 45.514 seconds.
+Epoch 65 Loss 0.642860 lr 0.000263 Duration 43.790 seconds.
+Epoch 66 Loss 0.633725 lr 0.000263 Duration 48.957 seconds.
+Epoch 67 Loss 0.640274 lr 0.000263 Duration 47.654 seconds.
+Epoch 68 Loss 0.622380 lr 0.000263 Duration 52.979 seconds.
+Epoch 69 Loss 0.634385 lr 0.000263 Duration 45.905 seconds.
+Epoch 70 Loss 0.621892 lr 0.000263 Duration 46.126 seconds.
+  [eval @ epoch 70] valid loss 0.7206 acc 0.7624 | test loss 0.7538 acc 0.7567
+Checkpoint has been created.
+Epoch 71 Loss 0.611402 lr 0.000176 Duration 49.967 seconds.
+Epoch 72 Loss 0.601470 lr 0.000176 Duration 62.225 seconds.
+Epoch 73 Loss 0.599645 lr 0.000176 Duration 62.960 seconds.
+Epoch 74 Loss 0.601031 lr 0.000176 Duration 55.331 seconds.
+Epoch 75 Loss 0.605010 lr 0.000176 Duration 49.903 seconds.
+Epoch 76 Loss 0.604699 lr 0.000176 Duration 49.397 seconds.
+Epoch 77 Loss 0.589566 lr 0.000176 Duration 50.064 seconds.
+Epoch 78 Loss 0.593857 lr 0.000176 Duration 59.767 seconds.
+Epoch 79 Loss 0.594042 lr 0.000176 Duration 48.394 seconds.
+Epoch 80 Loss 0.586624 lr 0.000176 Duration 43.162 seconds.
+  [eval @ epoch 80] valid loss 0.7382 acc 0.7582 | test loss 0.7699 acc 0.7502
+Checkpoint has been created.
+Epoch 81 Loss 0.583917 lr 0.000117 Duration 39.257 seconds.
+Epoch 82 Loss 0.576127 lr 0.000117 Duration 41.229 seconds.
+Epoch 83 Loss 0.573460 lr 0.000117 Duration 40.390 seconds.
+Epoch 84 Loss 0.575611 lr 0.000117 Duration 36.548 seconds.
+Epoch 85 Loss 0.567812 lr 0.000117 Duration 62.036 seconds.
+Epoch 86 Loss 0.566773 lr 0.000117 Duration 45.385 seconds.
+Epoch 87 Loss 0.567013 lr 0.000117 Duration 42.003 seconds.
+Epoch 88 Loss 0.564596 lr 0.000117 Duration 35.335 seconds.
+Epoch 89 Loss 0.557552 lr 0.000117 Duration 37.890 seconds.
+Epoch 90 Loss 0.563544 lr 0.000117 Duration 37.706 seconds.
+  [eval @ epoch 90] valid loss 0.7015 acc 0.7718 | test loss 0.7294 acc 0.7645
+Checkpoint has been created.
+Epoch 91 Loss 0.558661 lr 0.000078 Duration 34.942 seconds.
+Epoch 92 Loss 0.552000 lr 0.000078 Duration 35.308 seconds.
+Epoch 93 Loss 0.558282 lr 0.000078 Duration 33.421 seconds.
+Epoch 94 Loss 0.550237 lr 0.000078 Duration 31.428 seconds.
+Epoch 95 Loss 0.547315 lr 0.000078 Duration 40.405 seconds.
+Epoch 96 Loss 0.544957 lr 0.000078 Duration 41.546 seconds.
+Epoch 97 Loss 0.547146 lr 0.000078 Duration 39.732 seconds.
+Epoch 98 Loss 0.551795 lr 0.000078 Duration 44.528 seconds.
+Epoch 99 Loss 0.542027 lr 0.000078 Duration 39.385 seconds.
+Epoch 100 Loss 0.543873 lr 0.000078 Duration 38.978 seconds.
+  [eval @ epoch 100] valid loss 0.6909 acc 0.7726 | test loss 0.7199 acc 0.7691
+Checkpoint has been created.
+### Test or Validation ###
+Restored model parameters from /Users/saivignesh/Desktop/projects/TAMU/HW-4_ML/Fall26ML-HW4/ResNet/runs/no_residual_lr0.003/model-100.ckpt
+Test accuracy: 0.7726
+### Test or Validation ###
+Restored model parameters from /Users/saivignesh/Desktop/projects/TAMU/HW-4_ML/Fall26ML-HW4/ResNet/runs/no_residual_lr0.003/model-100.ckpt
+Test accuracy: 0.7691
+===== no_residual lr=0.01  Thu Nov 19 22:15:16 CST 2026
+--- Preparing Data ---
+### Training... ###
+Epoch 1 Loss 2.104039 lr 0.010000 Duration 38.807 seconds.
+Epoch 2 Loss 1.794923 lr 0.010000 Duration 39.383 seconds.
+Epoch 3 Loss 1.643459 lr 0.010000 Duration 35.343 seconds.
+Epoch 4 Loss 1.515669 lr 0.010000 Duration 32.944 seconds.
+Epoch 5 Loss 1.446340 lr 0.010000 Duration 33.336 seconds.
+Epoch 6 Loss 1.384359 lr 0.010000 Duration 31.918 seconds.
+Epoch 7 Loss 1.342438 lr 0.010000 Duration 31.761 seconds.
+Epoch 8 Loss 1.314930 lr 0.010000 Duration 31.093 seconds.
+Epoch 9 Loss 1.278979 lr 0.010000 Duration 33.910 seconds.
+Epoch 10 Loss 1.265452 lr 0.010000 Duration 32.654 seconds.
+  [eval @ epoch 10] valid loss 2.4751 acc 0.3308 | test loss 2.5337 acc 0.3212
+Checkpoint has been created.
+Epoch 11 Loss 1.180612 lr 0.006667 Duration 34.690 seconds.
+Epoch 12 Loss 1.174528 lr 0.006667 Duration 32.113 seconds.
+Epoch 13 Loss 1.151544 lr 0.006667 Duration 32.919 seconds.
+Epoch 14 Loss 1.141858 lr 0.006667 Duration 33.173 seconds.
+Epoch 15 Loss 1.135222 lr 0.006667 Duration 33.800 seconds.
+Epoch 16 Loss 1.118989 lr 0.006667 Duration 34.057 seconds.
+Epoch 17 Loss 1.109709 lr 0.006667 Duration 39.074 seconds.
+Epoch 18 Loss 1.103040 lr 0.006667 Duration 47.513 seconds.
+Epoch 19 Loss 1.098129 lr 0.006667 Duration 43.857 seconds.
+Epoch 20 Loss 1.092344 lr 0.006667 Duration 42.529 seconds.
+  [eval @ epoch 20] valid loss 1.2226 acc 0.6062 | test loss 1.2377 acc 0.5991
+Checkpoint has been created.
+Epoch 21 Loss 1.025894 lr 0.004444 Duration 40.996 seconds.
+Epoch 22 Loss 1.033977 lr 0.004444 Duration 34.258 seconds.
+Epoch 23 Loss 1.014029 lr 0.004444 Duration 33.762 seconds.
+Epoch 24 Loss 1.006549 lr 0.004444 Duration 34.915 seconds.
+Epoch 25 Loss 1.015273 lr 0.004444 Duration 34.244 seconds.
+Epoch 26 Loss 0.996547 lr 0.004444 Duration 37.824 seconds.
+Epoch 27 Loss 1.002507 lr 0.004444 Duration 37.982 seconds.
+Epoch 28 Loss 1.016822 lr 0.004444 Duration 42.162 seconds.
+Epoch 29 Loss 0.993904 lr 0.004444 Duration 38.231 seconds.
+Epoch 30 Loss 0.980895 lr 0.004444 Duration 33.746 seconds.
+  [eval @ epoch 30] valid loss 1.3805 acc 0.5156 | test loss 1.3982 acc 0.5279
+Checkpoint has been created.
+Epoch 31 Loss 0.930395 lr 0.002963 Duration 37.411 seconds.
+Epoch 32 Loss 0.930831 lr 0.002963 Duration 34.560 seconds.
+Epoch 33 Loss 0.931064 lr 0.002963 Duration 34.407 seconds.
+Epoch 34 Loss 0.915109 lr 0.002963 Duration 34.185 seconds.
+Epoch 35 Loss 0.917653 lr 0.002963 Duration 34.658 seconds.
+Epoch 36 Loss 0.917019 lr 0.002963 Duration 33.375 seconds.
+Epoch 37 Loss 0.918494 lr 0.002963 Duration 33.404 seconds.
+Epoch 38 Loss 0.915178 lr 0.002963 Duration 34.182 seconds.
+Epoch 39 Loss 0.912706 lr 0.002963 Duration 34.566 seconds.
+Epoch 40 Loss 0.922609 lr 0.002963 Duration 35.206 seconds.
+  [eval @ epoch 40] valid loss 1.2922 acc 0.5844 | test loss 1.3183 acc 0.5790
+Checkpoint has been created.
+Epoch 41 Loss 0.879064 lr 0.001975 Duration 35.976 seconds.
+Epoch 42 Loss 0.845149 lr 0.001975 Duration 34.642 seconds.
+Epoch 43 Loss 0.859802 lr 0.001975 Duration 43.967 seconds.
+Epoch 44 Loss 0.850275 lr 0.001975 Duration 50.440 seconds.
+Epoch 45 Loss 0.853088 lr 0.001975 Duration 41.710 seconds.
+Epoch 46 Loss 0.848630 lr 0.001975 Duration 36.862 seconds.
+Epoch 47 Loss 0.860031 lr 0.001975 Duration 32.456 seconds.
+Epoch 48 Loss 0.854400 lr 0.001975 Duration 35.712 seconds.
+Epoch 49 Loss 0.842201 lr 0.001975 Duration 38.328 seconds.
+Epoch 50 Loss 0.843554 lr 0.001975 Duration 32.895 seconds.
+  [eval @ epoch 50] valid loss 0.9836 acc 0.6786 | test loss 1.0276 acc 0.6724
+Checkpoint has been created.
+Epoch 51 Loss 0.813464 lr 0.001317 Duration 31.197 seconds.
+Epoch 52 Loss 0.816499 lr 0.001317 Duration 32.311 seconds.
+Epoch 53 Loss 0.809452 lr 0.001317 Duration 31.526 seconds.
+Epoch 54 Loss 0.812870 lr 0.001317 Duration 31.390 seconds.
+Epoch 55 Loss 0.800395 lr 0.001317 Duration 30.916 seconds.
+Epoch 56 Loss 0.794191 lr 0.001317 Duration 31.840 seconds.
+Epoch 57 Loss 0.785751 lr 0.001317 Duration 31.214 seconds.
+Epoch 58 Loss 0.790545 lr 0.001317 Duration 38.779 seconds.
+Epoch 59 Loss 0.791615 lr 0.001317 Duration 32.895 seconds.
+Epoch 60 Loss 0.799319 lr 0.001317 Duration 30.882 seconds.
+  [eval @ epoch 60] valid loss 0.9141 acc 0.7144 | test loss 0.9526 acc 0.7073
+Checkpoint has been created.
+Epoch 61 Loss 0.782072 lr 0.000878 Duration 31.860 seconds.
+Epoch 62 Loss 0.767470 lr 0.000878 Duration 31.711 seconds.
+Epoch 63 Loss 0.770417 lr 0.000878 Duration 37.600 seconds.
+Epoch 64 Loss 0.757160 lr 0.000878 Duration 35.916 seconds.
+Epoch 65 Loss 0.755851 lr 0.000878 Duration 32.456 seconds.
+Epoch 66 Loss 0.748682 lr 0.000878 Duration 31.509 seconds.
+Epoch 67 Loss 0.745772 lr 0.000878 Duration 31.967 seconds.
+Epoch 68 Loss 0.741028 lr 0.000878 Duration 30.983 seconds.
+Epoch 69 Loss 0.740839 lr 0.000878 Duration 31.453 seconds.
+Epoch 70 Loss 0.748425 lr 0.000878 Duration 31.804 seconds.
+  [eval @ epoch 70] valid loss 0.8657 acc 0.7254 | test loss 0.9099 acc 0.7175
+Checkpoint has been created.
+Epoch 71 Loss 0.722573 lr 0.000585 Duration 35.424 seconds.
+Epoch 72 Loss 0.734235 lr 0.000585 Duration 33.044 seconds.
+Epoch 73 Loss 0.716932 lr 0.000585 Duration 32.998 seconds.
+Epoch 74 Loss 0.715632 lr 0.000585 Duration 30.731 seconds.
+Epoch 75 Loss 0.716397 lr 0.000585 Duration 31.346 seconds.
+Epoch 76 Loss 0.718480 lr 0.000585 Duration 33.199 seconds.
+Epoch 77 Loss 0.716199 lr 0.000585 Duration 37.567 seconds.
+Epoch 78 Loss 0.707983 lr 0.000585 Duration 31.375 seconds.
+Epoch 79 Loss 0.715252 lr 0.000585 Duration 33.844 seconds.
+Epoch 80 Loss 0.712008 lr 0.000585 Duration 36.104 seconds.
+  [eval @ epoch 80] valid loss 0.8161 acc 0.7396 | test loss 0.8677 acc 0.7254
+Checkpoint has been created.
+Epoch 81 Loss 0.698655 lr 0.000390 Duration 34.333 seconds.
+Epoch 82 Loss 0.696526 lr 0.000390 Duration 30.315 seconds.
+Epoch 83 Loss 0.696975 lr 0.000390 Duration 29.897 seconds.
+Epoch 84 Loss 0.692193 lr 0.000390 Duration 29.729 seconds.
+Epoch 85 Loss 0.687049 lr 0.000390 Duration 29.923 seconds.
+Epoch 86 Loss 0.691734 lr 0.000390 Duration 29.652 seconds.
+Epoch 87 Loss 0.690066 lr 0.000390 Duration 30.056 seconds.
+Epoch 88 Loss 0.683579 lr 0.000390 Duration 31.013 seconds.
+Epoch 89 Loss 0.682995 lr 0.000390 Duration 31.819 seconds.
+Epoch 90 Loss 0.688017 lr 0.000390 Duration 31.646 seconds.
+  [eval @ epoch 90] valid loss 0.7947 acc 0.7414 | test loss 0.8459 acc 0.7373
+Checkpoint has been created.
+Epoch 91 Loss 0.679738 lr 0.000260 Duration 40.469 seconds.
+Epoch 92 Loss 0.671908 lr 0.000260 Duration 38.966 seconds.
+Epoch 93 Loss 0.673708 lr 0.000260 Duration 36.549 seconds.
+Epoch 94 Loss 0.671093 lr 0.000260 Duration 35.557 seconds.
+Epoch 95 Loss 0.671323 lr 0.000260 Duration 37.423 seconds.
+Epoch 96 Loss 0.670715 lr 0.000260 Duration 37.026 seconds.
+Epoch 97 Loss 0.665521 lr 0.000260 Duration 31.250 seconds.
+Epoch 98 Loss 0.667334 lr 0.000260 Duration 30.592 seconds.
+Epoch 99 Loss 0.664039 lr 0.000260 Duration 30.742 seconds.
+Epoch 100 Loss 0.670808 lr 0.000260 Duration 30.645 seconds.
+  [eval @ epoch 100] valid loss 0.7914 acc 0.7438 | test loss 0.8661 acc 0.7353
+Checkpoint has been created.
+### Test or Validation ###
+Restored model parameters from /Users/saivignesh/Desktop/projects/TAMU/HW-4_ML/Fall26ML-HW4/ResNet/runs/no_residual_lr0.01/model-100.ckpt
+Test accuracy: 0.7438
+### Test or Validation ###
+Restored model parameters from /Users/saivignesh/Desktop/projects/TAMU/HW-4_ML/Fall26ML-HW4/ResNet/runs/no_residual_lr0.01/model-100.ckpt
+Test accuracy: 0.7353
+===== no_residual lr=0.03  Thu Nov 19 23:13:49 CST 2026
+--- Preparing Data ---
+### Training... ###
+Epoch 1 Loss 2.196205 lr 0.030000 Duration 32.378 seconds.
+Epoch 2 Loss 1.924446 lr 0.030000 Duration 31.795 seconds.
+Epoch 3 Loss 1.897497 lr 0.030000 Duration 31.613 seconds.
+Epoch 4 Loss 1.881659 lr 0.030000 Duration 30.843 seconds.
+Epoch 5 Loss 1.890275 lr 0.030000 Duration 32.789 seconds.
+Epoch 6 Loss 1.874797 lr 0.030000 Duration 31.033 seconds.
+Epoch 7 Loss 1.865558 lr 0.030000 Duration 31.143 seconds.
+Epoch 8 Loss 1.863325 lr 0.030000 Duration 30.960 seconds.
+Epoch 9 Loss 1.856971 lr 0.030000 Duration 31.054 seconds.
+Epoch 10 Loss 1.854817 lr 0.030000 Duration 30.745 seconds.
+  [eval @ epoch 10] valid loss 2.0006 acc 0.1942 | test loss 2.0028 acc 0.2027
+Checkpoint has been created.
+Epoch 11 Loss 1.827966 lr 0.020000 Duration 36.112 seconds.
+Epoch 12 Loss 1.844970 lr 0.020000 Duration 39.489 seconds.
+Epoch 13 Loss 1.827818 lr 0.020000 Duration 34.923 seconds.
+Epoch 14 Loss 1.831503 lr 0.020000 Duration 32.745 seconds.
+Epoch 15 Loss 1.817682 lr 0.020000 Duration 38.420 seconds.
+Epoch 16 Loss 1.823153 lr 0.020000 Duration 38.096 seconds.
+Epoch 17 Loss 1.820165 lr 0.020000 Duration 42.455 seconds.
+Epoch 18 Loss 1.823107 lr 0.020000 Duration 34.186 seconds.
+Epoch 19 Loss 1.827559 lr 0.020000 Duration 33.755 seconds.
+Epoch 20 Loss 1.818042 lr 0.020000 Duration 35.469 seconds.
+  [eval @ epoch 20] valid loss 3.8305 acc 0.1146 | test loss 3.8628 acc 0.1058
+Checkpoint has been created.
+Epoch 21 Loss 1.802726 lr 0.013333 Duration 43.084 seconds.
+Epoch 22 Loss 1.808284 lr 0.013333 Duration 47.853 seconds.
+Epoch 23 Loss 1.794830 lr 0.013333 Duration 39.992 seconds.
+Epoch 24 Loss 1.792930 lr 0.013333 Duration 33.792 seconds.
+Epoch 25 Loss 1.789058 lr 0.013333 Duration 33.332 seconds.
+Epoch 26 Loss 1.786406 lr 0.013333 Duration 33.390 seconds.
+Epoch 27 Loss 1.785163 lr 0.013333 Duration 35.797 seconds.
+Epoch 28 Loss 1.785644 lr 0.013333 Duration 37.873 seconds.
+Epoch 29 Loss 1.784545 lr 0.013333 Duration 34.814 seconds.
+Epoch 30 Loss 1.777752 lr 0.013333 Duration 38.411 seconds.
+  [eval @ epoch 30] valid loss 3.3878 acc 0.1090 | test loss 3.3932 acc 0.1029
+Checkpoint has been created.
+Epoch 31 Loss 1.766136 lr 0.008889 Duration 39.787 seconds.
+Epoch 32 Loss 1.760729 lr 0.008889 Duration 37.570 seconds.
+Epoch 33 Loss 1.765300 lr 0.008889 Duration 34.201 seconds.
+Epoch 34 Loss 1.762212 lr 0.008889 Duration 33.954 seconds.
+Epoch 35 Loss 1.812101 lr 0.008889 Duration 35.717 seconds.
+Epoch 36 Loss 1.763010 lr 0.008889 Duration 35.478 seconds.
+Epoch 37 Loss 1.754296 lr 0.008889 Duration 34.842 seconds.
+Epoch 38 Loss 1.761514 lr 0.008889 Duration 40.125 seconds.
+Epoch 39 Loss 1.759012 lr 0.008889 Duration 50.457 seconds.
+Epoch 40 Loss 1.747635 lr 0.008889 Duration 64.850 seconds.
+  [eval @ epoch 40] valid loss 3.0699 acc 0.1416 | test loss 3.0779 acc 0.1356
+Checkpoint has been created.
+Epoch 41 Loss 1.724424 lr 0.005926 Duration 48.650 seconds.
+Epoch 42 Loss 1.737197 lr 0.005926 Duration 48.601 seconds.
+Epoch 43 Loss 1.729999 lr 0.005926 Duration 45.626 seconds.
+Epoch 44 Loss 1.731370 lr 0.005926 Duration 44.498 seconds.
+Epoch 45 Loss 1.725955 lr 0.005926 Duration 43.681 seconds.
+Epoch 46 Loss 1.731906 lr 0.005926 Duration 47.406 seconds.
+Epoch 47 Loss 1.725635 lr 0.005926 Duration 44.389 seconds.
+Epoch 48 Loss 1.726496 lr 0.005926 Duration 46.887 seconds.
+Epoch 49 Loss 1.726604 lr 0.005926 Duration 44.015 seconds.
+Epoch 50 Loss 1.784680 lr 0.005926 Duration 47.379 seconds.
+  [eval @ epoch 50] valid loss 2.6630 acc 0.1230 | test loss 2.6770 acc 0.1184
+Checkpoint has been created.
+Epoch 51 Loss 1.700293 lr 0.003951 Duration 50.914 seconds.
+Epoch 52 Loss 1.704908 lr 0.003951 Duration 47.447 seconds.
+Epoch 53 Loss 1.694364 lr 0.003951 Duration 46.057 seconds.
+Epoch 54 Loss 1.698541 lr 0.003951 Duration 54.699 seconds.
+Epoch 55 Loss 1.696846 lr 0.003951 Duration 56.313 seconds.
+Epoch 56 Loss 1.711272 lr 0.003951 Duration 59.624 seconds.
+Epoch 57 Loss 1.701984 lr 0.003951 Duration 52.889 seconds.
+Epoch 58 Loss 1.699796 lr 0.003951 Duration 43.723 seconds.
+Epoch 59 Loss 1.695059 lr 0.003951 Duration 45.843 seconds.
+Epoch 60 Loss 1.696706 lr 0.003951 Duration 47.601 seconds.
+  [eval @ epoch 60] valid loss 2.2462 acc 0.1506 | test loss 2.2555 acc 0.1418
+Checkpoint has been created.
+Epoch 61 Loss 1.686798 lr 0.002634 Duration 48.736 seconds.
+Epoch 62 Loss 1.682598 lr 0.002634 Duration 44.396 seconds.
+Epoch 63 Loss 1.679993 lr 0.002634 Duration 48.892 seconds.
+Epoch 64 Loss 1.681406 lr 0.002634 Duration 44.349 seconds.
+Epoch 65 Loss 1.677178 lr 0.002634 Duration 41.016 seconds.
+Epoch 66 Loss 1.678750 lr 0.002634 Duration 50.112 seconds.
+Epoch 67 Loss 1.686674 lr 0.002634 Duration 51.844 seconds.
+Epoch 68 Loss 1.673408 lr 0.002634 Duration 47.713 seconds.
+Epoch 69 Loss 1.714935 lr 0.002634 Duration 46.750 seconds.
+Epoch 70 Loss 1.684936 lr 0.002634 Duration 45.989 seconds.
+  [eval @ epoch 70] valid loss 2.1953 acc 0.1716 | test loss 2.2146 acc 0.1585
+Checkpoint has been created.
+Epoch 71 Loss 1.655311 lr 0.001756 Duration 46.068 seconds.
+Epoch 72 Loss 1.663169 lr 0.001756 Duration 43.887 seconds.
+Epoch 73 Loss 1.657814 lr 0.001756 Duration 43.002 seconds.
+Epoch 74 Loss 1.667398 lr 0.001756 Duration 55.857 seconds.
+Epoch 75 Loss 1.663374 lr 0.001756 Duration 62.862 seconds.
+Epoch 76 Loss 1.653842 lr 0.001756 Duration 52.644 seconds.
+Epoch 77 Loss 1.663580 lr 0.001756 Duration 44.107 seconds.
+Epoch 78 Loss 1.656484 lr 0.001756 Duration 40.389 seconds.
+Epoch 79 Loss 1.655178 lr 0.001756 Duration 38.675 seconds.
+Epoch 80 Loss 1.656218 lr 0.001756 Duration 41.389 seconds.
+  [eval @ epoch 80] valid loss 2.7612 acc 0.1112 | test loss 2.7689 acc 0.1075
+Checkpoint has been created.
+Epoch 81 Loss 1.651780 lr 0.001171 Duration 48.586 seconds.
+Epoch 82 Loss 1.645901 lr 0.001171 Duration 46.745 seconds.
+Epoch 83 Loss 1.643187 lr 0.001171 Duration 50.121 seconds.
+Epoch 84 Loss 1.643307 lr 0.001171 Duration 49.210 seconds.
+Epoch 85 Loss 1.642986 lr 0.001171 Duration 47.081 seconds.
+Epoch 86 Loss 1.642078 lr 0.001171 Duration 47.102 seconds.
+Epoch 87 Loss 1.645180 lr 0.001171 Duration 42.438 seconds.
+Epoch 88 Loss 1.640087 lr 0.001171 Duration 45.672 seconds.
+Epoch 89 Loss 1.635847 lr 0.001171 Duration 44.478 seconds.
+Epoch 90 Loss 1.639041 lr 0.001171 Duration 57.519 seconds.
+  [eval @ epoch 90] valid loss 2.0990 acc 0.2130 | test loss 2.1088 acc 0.2077
+Checkpoint has been created.
+Epoch 91 Loss 1.635162 lr 0.000780 Duration 62.072 seconds.
+Epoch 92 Loss 1.631910 lr 0.000780 Duration 45.049 seconds.
+Epoch 93 Loss 1.628881 lr 0.000780 Duration 42.903 seconds.
+Epoch 94 Loss 1.633182 lr 0.000780 Duration 44.766 seconds.
+Epoch 95 Loss 1.628364 lr 0.000780 Duration 41.247 seconds.
+Epoch 96 Loss 1.635583 lr 0.000780 Duration 47.168 seconds.
+Epoch 97 Loss 1.620519 lr 0.000780 Duration 46.716 seconds.
+Epoch 98 Loss 1.630612 lr 0.000780 Duration 44.269 seconds.
+Epoch 99 Loss 1.631928 lr 0.000780 Duration 44.397 seconds.
+Epoch 100 Loss 1.624977 lr 0.000780 Duration 44.910 seconds.
+  [eval @ epoch 100] valid loss 11.8054 acc 0.1388 | test loss 12.0531 acc 0.1308
+Checkpoint has been created.
+### Test or Validation ###
+Restored model parameters from /Users/saivignesh/Desktop/projects/TAMU/HW-4_ML/Fall26ML-HW4/ResNet/runs/no_residual_lr0.03/model-100.ckpt
+Test accuracy: 0.1388
+### Test or Validation ###
+Restored model parameters from /Users/saivignesh/Desktop/projects/TAMU/HW-4_ML/Fall26ML-HW4/ResNet/runs/no_residual_lr0.03/model-100.ckpt
+Test accuracy: 0.1308
+===== no_batchnorm lr=0.003  Fri Nov 20 00:26:40 CST 2026
+--- Preparing Data ---
+### Training... ###
+Epoch 1 Loss 2.008722 lr 0.003000 Duration 38.726 seconds.
+Epoch 2 Loss 1.706534 lr 0.003000 Duration 35.868 seconds.
+Epoch 3 Loss 1.545300 lr 0.003000 Duration 36.280 seconds.
+Epoch 4 Loss 1.434653 lr 0.003000 Duration 37.857 seconds.
+Epoch 5 Loss 1.343535 lr 0.003000 Duration 45.102 seconds.
+Epoch 6 Loss 1.270639 lr 0.003000 Duration 45.993 seconds.
+Epoch 7 Loss 1.234485 lr 0.003000 Duration 37.179 seconds.
+Epoch 8 Loss 1.200370 lr 0.003000 Duration 35.712 seconds.
+Epoch 9 Loss 1.164581 lr 0.003000 Duration 35.489 seconds.
+Epoch 10 Loss 1.141238 lr 0.003000 Duration 34.567 seconds.
+  [eval @ epoch 10] valid loss 1.1362 acc 0.6186 | test loss 1.1786 acc 0.6114
+Checkpoint has been created.
+Epoch 11 Loss 1.061171 lr 0.002000 Duration 41.121 seconds.
+Epoch 12 Loss 1.038325 lr 0.002000 Duration 42.564 seconds.
+Epoch 13 Loss 1.015158 lr 0.002000 Duration 50.506 seconds.
+Epoch 14 Loss 1.004913 lr 0.002000 Duration 50.990 seconds.
+Epoch 15 Loss 0.985603 lr 0.002000 Duration 47.664 seconds.
+Epoch 16 Loss 0.972451 lr 0.002000 Duration 52.364 seconds.
+Epoch 17 Loss 0.951404 lr 0.002000 Duration 46.384 seconds.
+Epoch 18 Loss 0.944562 lr 0.002000 Duration 44.192 seconds.
+Epoch 19 Loss 0.948761 lr 0.002000 Duration 40.556 seconds.
+Epoch 20 Loss 0.915408 lr 0.002000 Duration 40.179 seconds.
+  [eval @ epoch 20] valid loss 1.0896 acc 0.6488 | test loss 1.1030 acc 0.6469
+Checkpoint has been created.
+Epoch 21 Loss 0.867106 lr 0.001333 Duration 55.833 seconds.
+Epoch 22 Loss 0.848715 lr 0.001333 Duration 49.292 seconds.
+Epoch 23 Loss 0.836805 lr 0.001333 Duration 44.555 seconds.
+Epoch 24 Loss 0.826305 lr 0.001333 Duration 42.912 seconds.
+Epoch 25 Loss 0.818705 lr 0.001333 Duration 44.437 seconds.
+Epoch 26 Loss 0.808399 lr 0.001333 Duration 41.692 seconds.
+Epoch 27 Loss 0.797299 lr 0.001333 Duration 41.025 seconds.
+Epoch 28 Loss 0.793563 lr 0.001333 Duration 41.155 seconds.
+Epoch 29 Loss 0.787961 lr 0.001333 Duration 45.193 seconds.
+Epoch 30 Loss 0.775070 lr 0.001333 Duration 51.786 seconds.
+  [eval @ epoch 30] valid loss 0.9239 acc 0.6948 | test loss 0.9479 acc 0.6880
+Checkpoint has been created.
+Epoch 31 Loss 0.739428 lr 0.000889 Duration 62.912 seconds.
+Epoch 32 Loss 0.731035 lr 0.000889 Duration 54.574 seconds.
+Epoch 33 Loss 0.718428 lr 0.000889 Duration 50.348 seconds.
+Epoch 34 Loss 0.709687 lr 0.000889 Duration 47.400 seconds.
+Epoch 35 Loss 0.701687 lr 0.000889 Duration 44.007 seconds.
+Epoch 36 Loss 0.698155 lr 0.000889 Duration 47.038 seconds.
+Epoch 37 Loss 0.693116 lr 0.000889 Duration 60.617 seconds.
+Epoch 38 Loss 0.689714 lr 0.000889 Duration 54.188 seconds.
+Epoch 39 Loss 0.682691 lr 0.000889 Duration 43.636 seconds.
+Epoch 40 Loss 0.676805 lr 0.000889 Duration 42.532 seconds.
+  [eval @ epoch 40] valid loss 0.7420 acc 0.7454 | test loss 0.7893 acc 0.7403
+Checkpoint has been created.
+Epoch 41 Loss 0.643347 lr 0.000593 Duration 41.392 seconds.
+Epoch 42 Loss 0.639485 lr 0.000593 Duration 45.899 seconds.
+Epoch 43 Loss 0.629019 lr 0.000593 Duration 44.156 seconds.
+Epoch 44 Loss 0.623307 lr 0.000593 Duration 46.242 seconds.
+Epoch 45 Loss 0.623500 lr 0.000593 Duration 52.138 seconds.
+Epoch 46 Loss 0.614072 lr 0.000593 Duration 46.723 seconds.
+Epoch 47 Loss 0.616168 lr 0.000593 Duration 43.622 seconds.
+Epoch 48 Loss 0.612244 lr 0.000593 Duration 43.345 seconds.
+Epoch 49 Loss 0.607934 lr 0.000593 Duration 42.779 seconds.
+Epoch 50 Loss 0.609931 lr 0.000593 Duration 40.876 seconds.
+  [eval @ epoch 50] valid loss 0.7277 acc 0.7546 | test loss 0.7612 acc 0.7496
+Checkpoint has been created.
+Epoch 51 Loss 0.580003 lr 0.000395 Duration 46.523 seconds.
+Epoch 52 Loss 0.575159 lr 0.000395 Duration 64.811 seconds.
+Epoch 53 Loss 0.568173 lr 0.000395 Duration 39.018 seconds.
+Epoch 54 Loss 0.564519 lr 0.000395 Duration 33.174 seconds.
+Epoch 55 Loss 0.562802 lr 0.000395 Duration 31.672 seconds.
+Epoch 56 Loss 0.557018 lr 0.000395 Duration 30.972 seconds.
+Epoch 57 Loss 0.556194 lr 0.000395 Duration 28.937 seconds.
+Epoch 58 Loss 0.549087 lr 0.000395 Duration 28.530 seconds.
+Epoch 59 Loss 0.551354 lr 0.000395 Duration 28.748 seconds.
+Epoch 60 Loss 0.544729 lr 0.000395 Duration 28.597 seconds.
+  [eval @ epoch 60] valid loss 0.6835 acc 0.7736 | test loss 0.7151 acc 0.7674
+Checkpoint has been created.
+Epoch 61 Loss 0.529621 lr 0.000263 Duration 28.689 seconds.
+Epoch 62 Loss 0.523532 lr 0.000263 Duration 28.782 seconds.
+Epoch 63 Loss 0.522700 lr 0.000263 Duration 29.682 seconds.
+Epoch 64 Loss 0.515820 lr 0.000263 Duration 31.075 seconds.
+Epoch 65 Loss 0.512998 lr 0.000263 Duration 29.547 seconds.
+Epoch 66 Loss 0.512609 lr 0.000263 Duration 31.087 seconds.
+Epoch 67 Loss 0.515324 lr 0.000263 Duration 31.414 seconds.
+Epoch 68 Loss 0.502553 lr 0.000263 Duration 34.770 seconds.
+Epoch 69 Loss 0.507201 lr 0.000263 Duration 34.344 seconds.
+Epoch 70 Loss 0.504369 lr 0.000263 Duration 33.685 seconds.
+  [eval @ epoch 70] valid loss 0.6682 acc 0.7836 | test loss 0.7173 acc 0.7731
+Checkpoint has been created.
+Epoch 71 Loss 0.485954 lr 0.000176 Duration 34.685 seconds.
+Epoch 72 Loss 0.486636 lr 0.000176 Duration 34.402 seconds.
+Epoch 73 Loss 0.485125 lr 0.000176 Duration 34.208 seconds.
+Epoch 74 Loss 0.482874 lr 0.000176 Duration 33.187 seconds.
+Epoch 75 Loss 0.477566 lr 0.000176 Duration 30.817 seconds.
+Epoch 76 Loss 0.480787 lr 0.000176 Duration 29.102 seconds.
+Epoch 77 Loss 0.476425 lr 0.000176 Duration 29.479 seconds.
+Epoch 78 Loss 0.476631 lr 0.000176 Duration 29.602 seconds.
+Epoch 79 Loss 0.476108 lr 0.000176 Duration 29.393 seconds.
+Epoch 80 Loss 0.475683 lr 0.000176 Duration 29.451 seconds.
+  [eval @ epoch 80] valid loss 0.6528 acc 0.7860 | test loss 0.6940 acc 0.7796
+Checkpoint has been created.
+Epoch 81 Loss 0.464555 lr 0.000117 Duration 30.249 seconds.
+Epoch 82 Loss 0.459749 lr 0.000117 Duration 29.579 seconds.
+Epoch 83 Loss 0.459087 lr 0.000117 Duration 29.931 seconds.
+Epoch 84 Loss 0.459875 lr 0.000117 Duration 30.601 seconds.
+Epoch 85 Loss 0.458948 lr 0.000117 Duration 29.488 seconds.
+Epoch 86 Loss 0.454912 lr 0.000117 Duration 29.485 seconds.
+Epoch 87 Loss 0.452644 lr 0.000117 Duration 30.238 seconds.
+Epoch 88 Loss 0.456524 lr 0.000117 Duration 30.003 seconds.
+Epoch 89 Loss 0.450063 lr 0.000117 Duration 30.883 seconds.
+Epoch 90 Loss 0.448464 lr 0.000117 Duration 30.798 seconds.
+  [eval @ epoch 90] valid loss 0.6645 acc 0.7874 | test loss 0.6994 acc 0.7790
+Checkpoint has been created.
+Epoch 91 Loss 0.441479 lr 0.000078 Duration 31.077 seconds.
+Epoch 92 Loss 0.442377 lr 0.000078 Duration 32.214 seconds.
+Epoch 93 Loss 0.439217 lr 0.000078 Duration 38.553 seconds.
+Epoch 94 Loss 0.439276 lr 0.000078 Duration 49.705 seconds.
+Epoch 95 Loss 0.442287 lr 0.000078 Duration 39.821 seconds.
+Epoch 96 Loss 0.438259 lr 0.000078 Duration 35.139 seconds.
+Epoch 97 Loss 0.437146 lr 0.000078 Duration 33.830 seconds.
+Epoch 98 Loss 0.436185 lr 0.000078 Duration 33.122 seconds.
+Epoch 99 Loss 0.432354 lr 0.000078 Duration 33.373 seconds.
+Epoch 100 Loss 0.433980 lr 0.000078 Duration 33.227 seconds.
+  [eval @ epoch 100] valid loss 0.6825 acc 0.7878 | test loss 0.7224 acc 0.7767
+Checkpoint has been created.
+### Test or Validation ###
+Restored model parameters from /Users/saivignesh/Desktop/projects/TAMU/HW-4_ML/Fall26ML-HW4/ResNet/runs/no_batchnorm_lr0.003/model-100.ckpt
+Test accuracy: 0.7878
+### Test or Validation ###
+Restored model parameters from /Users/saivignesh/Desktop/projects/TAMU/HW-4_ML/Fall26ML-HW4/ResNet/runs/no_batchnorm_lr0.003/model-100.ckpt
+Test accuracy: 0.7767
+===== no_batchnorm lr=0.01  Fri Nov 20 01:32:35 CST 2026
+--- Preparing Data ---
+### Training... ###
+Epoch 1 Loss 89.795697 lr 0.010000 Duration 41.931 seconds.
+Epoch 2 Loss 2.303383 lr 0.010000 Duration 39.519 seconds.
+Epoch 3 Loss 2.303317 lr 0.010000 Duration 33.042 seconds.
+Epoch 4 Loss 2.303509 lr 0.010000 Duration 31.989 seconds.
+Epoch 5 Loss 2.303158 lr 0.010000 Duration 31.840 seconds.
+Epoch 6 Loss 2.303397 lr 0.010000 Duration 32.344 seconds.
+Epoch 7 Loss 388.996024 lr 0.010000 Duration 35.441 seconds.
+Epoch 8 Loss 2.303289 lr 0.010000 Duration 33.819 seconds.
+Epoch 9 Loss 2.303132 lr 0.010000 Duration 33.671 seconds.
+Epoch 10 Loss 5436328.005339 lr 0.010000 Duration 35.681 seconds.
+  [eval @ epoch 10] valid loss 2.3039 acc 0.0970 | test loss 2.3034 acc 0.1000
+Checkpoint has been created.
+Epoch 11 Loss 2.303089 lr 0.006667 Duration 40.544 seconds.
+Epoch 12 Loss 2.303067 lr 0.006667 Duration 46.706 seconds.
+Epoch 13 Loss 2.303042 lr 0.006667 Duration 41.500 seconds.
+Epoch 14 Loss 2.303005 lr 0.006667 Duration 34.589 seconds.
+Epoch 15 Loss 2.303176 lr 0.006667 Duration 34.035 seconds.
+Epoch 16 Loss 2.303029 lr 0.006667 Duration 31.878 seconds.
+Epoch 17 Loss 5.539895 lr 0.006667 Duration 32.086 seconds.
+Epoch 18 Loss 2.303028 lr 0.006667 Duration 43.391 seconds.
+Epoch 19 Loss 2.331646 lr 0.006667 Duration 38.318 seconds.
+Epoch 20 Loss 2.303082 lr 0.006667 Duration 32.200 seconds.
+  [eval @ epoch 20] valid loss 2.3034 acc 0.0976 | test loss 2.3031 acc 0.1000
+Checkpoint has been created.
+Epoch 21 Loss 2.302994 lr 0.004444 Duration 30.493 seconds.
+Epoch 22 Loss 2.302967 lr 0.004444 Duration 29.648 seconds.
+Epoch 23 Loss 2.302984 lr 0.004444 Duration 30.632 seconds.
+Epoch 24 Loss 8.067350 lr 0.004444 Duration 29.851 seconds.
+Epoch 25 Loss 2.302932 lr 0.004444 Duration 29.167 seconds.
+Epoch 26 Loss 2.302922 lr 0.004444 Duration 29.483 seconds.
+Epoch 27 Loss 3.538201 lr 0.004444 Duration 29.201 seconds.
+Epoch 28 Loss 2.303249 lr 0.004444 Duration 29.278 seconds.
+Epoch 29 Loss 2.302984 lr 0.004444 Duration 29.269 seconds.
+Epoch 30 Loss 2.339718 lr 0.004444 Duration 29.637 seconds.
+  [eval @ epoch 30] valid loss 2.3028 acc 0.0976 | test loss 2.3027 acc 0.1000
+Checkpoint has been created.
+Epoch 31 Loss 2.302857 lr 0.002963 Duration 31.859 seconds.
+Epoch 32 Loss 2.302846 lr 0.002963 Duration 33.316 seconds.
+Epoch 33 Loss 8.843255 lr 0.002963 Duration 35.867 seconds.
+Epoch 34 Loss 2.302867 lr 0.002963 Duration 34.477 seconds.
+Epoch 35 Loss 2.302800 lr 0.002963 Duration 29.433 seconds.
+Epoch 36 Loss 2.310075 lr 0.002963 Duration 29.917 seconds.
+Epoch 37 Loss 2.302835 lr 0.002963 Duration 29.496 seconds.
+Epoch 38 Loss 2.302828 lr 0.002963 Duration 30.094 seconds.
+Epoch 39 Loss 2.315086 lr 0.002963 Duration 31.172 seconds.
+Epoch 40 Loss 2.302864 lr 0.002963 Duration 30.694 seconds.
+  [eval @ epoch 40] valid loss 2.3030 acc 0.1024 | test loss 2.3027 acc 0.1000
+Checkpoint has been created.
+Epoch 41 Loss 2.303801 lr 0.001975 Duration 30.172 seconds.
+Epoch 42 Loss 2.302736 lr 0.001975 Duration 30.126 seconds.
+Epoch 43 Loss 2.302780 lr 0.001975 Duration 29.879 seconds.
+Epoch 44 Loss 2.303271 lr 0.001975 Duration 30.668 seconds.
+Epoch 45 Loss 2.480482 lr 0.001975 Duration 38.091 seconds.
+Epoch 46 Loss 2.870348 lr 0.001975 Duration 40.623 seconds.
+Epoch 47 Loss 2.315788 lr 0.001975 Duration 35.919 seconds.
+Epoch 48 Loss 2.302737 lr 0.001975 Duration 30.527 seconds.
+Epoch 49 Loss 2.366830 lr 0.001975 Duration 30.385 seconds.
+Epoch 50 Loss 2.308746 lr 0.001975 Duration 30.963 seconds.
+  [eval @ epoch 50] valid loss 2.3029 acc 0.0976 | test loss 2.3027 acc 0.1000
+Checkpoint has been created.
+Epoch 51 Loss 3.374040 lr 0.001317 Duration 31.050 seconds.
+Epoch 52 Loss 2.303435 lr 0.001317 Duration 30.424 seconds.
+Epoch 53 Loss 2.305071 lr 0.001317 Duration 30.060 seconds.
+Epoch 54 Loss 2.303035 lr 0.001317 Duration 29.618 seconds.
+Epoch 55 Loss 2.302746 lr 0.001317 Duration 29.981 seconds.
+Epoch 56 Loss 2.302723 lr 0.001317 Duration 29.743 seconds.
+Epoch 57 Loss 2.303483 lr 0.001317 Duration 31.003 seconds.
+Epoch 58 Loss 2.308271 lr 0.001317 Duration 35.813 seconds.
+Epoch 59 Loss 2.303198 lr 0.001317 Duration 32.630 seconds.
+Epoch 60 Loss 2.303427 lr 0.001317 Duration 31.039 seconds.
+  [eval @ epoch 60] valid loss 2.3034 acc 0.0986 | test loss 2.3026 acc 0.1000
+Checkpoint has been created.
+Epoch 61 Loss 2.314157 lr 0.000878 Duration 31.544 seconds.
+Epoch 62 Loss 2.313692 lr 0.000878 Duration 32.155 seconds.
+Epoch 63 Loss 2.302907 lr 0.000878 Duration 31.872 seconds.
+Epoch 64 Loss 2.302675 lr 0.000878 Duration 31.488 seconds.
+Epoch 65 Loss 2.304291 lr 0.000878 Duration 35.710 seconds.
+Epoch 66 Loss 2.305975 lr 0.000878 Duration 39.254 seconds.
+Epoch 67 Loss 2.302794 lr 0.000878 Duration 35.359 seconds.
+Epoch 68 Loss 2.302662 lr 0.000878 Duration 31.408 seconds.
+Epoch 69 Loss 2.303277 lr 0.000878 Duration 31.551 seconds.
+Epoch 70 Loss 2.302639 lr 0.000878 Duration 31.591 seconds.
+  [eval @ epoch 70] valid loss 2.3028 acc 0.0950 | test loss 2.3026 acc 0.1000
+Checkpoint has been created.
+Epoch 71 Loss 2.304030 lr 0.000585 Duration 33.350 seconds.
+Epoch 72 Loss 2.302638 lr 0.000585 Duration 31.925 seconds.
+Epoch 73 Loss 2.302635 lr 0.000585 Duration 37.103 seconds.
+Epoch 74 Loss 2.302648 lr 0.000585 Duration 33.278 seconds.
+Epoch 75 Loss 2.302641 lr 0.000585 Duration 32.540 seconds.
+Epoch 76 Loss 2.302645 lr 0.000585 Duration 35.126 seconds.
+Epoch 77 Loss 2.302641 lr 0.000585 Duration 34.985 seconds.
+Epoch 78 Loss 2.302709 lr 0.000585 Duration 38.858 seconds.
+Epoch 79 Loss 2.302645 lr 0.000585 Duration 40.467 seconds.
+Epoch 80 Loss 2.302642 lr 0.000585 Duration 37.464 seconds.
+  [eval @ epoch 80] valid loss 2.3028 acc 0.0958 | test loss 2.3026 acc 0.1000
+Checkpoint has been created.
+Epoch 81 Loss 2.305226 lr 0.000390 Duration 34.126 seconds.
+Epoch 82 Loss 2.302621 lr 0.000390 Duration 31.663 seconds.
+Epoch 83 Loss 2.302617 lr 0.000390 Duration 31.326 seconds.
+Epoch 84 Loss 2.302636 lr 0.000390 Duration 35.710 seconds.
+Epoch 85 Loss 2.302623 lr 0.000390 Duration 37.441 seconds.
+Epoch 86 Loss 2.302621 lr 0.000390 Duration 32.916 seconds.
+Epoch 87 Loss 2.302617 lr 0.000390 Duration 31.442 seconds.
+Epoch 88 Loss 2.302624 lr 0.000390 Duration 33.099 seconds.
+Epoch 89 Loss 2.302616 lr 0.000390 Duration 31.993 seconds.
+Epoch 90 Loss 2.302626 lr 0.000390 Duration 32.071 seconds.
+  [eval @ epoch 90] valid loss 2.3028 acc 0.0976 | test loss 2.3026 acc 0.1000
+Checkpoint has been created.
+Epoch 91 Loss 2.302621 lr 0.000260 Duration 31.368 seconds.
+Epoch 92 Loss 2.302656 lr 0.000260 Duration 30.983 seconds.
+Epoch 93 Loss 2.302605 lr 0.000260 Duration 31.674 seconds.
+Epoch 94 Loss 2.302688 lr 0.000260 Duration 34.161 seconds.
+Epoch 95 Loss 2.302606 lr 0.000260 Duration 40.139 seconds.
+Epoch 96 Loss 2.302780 lr 0.000260 Duration 34.869 seconds.
+Epoch 97 Loss 2.302602 lr 0.000260 Duration 33.396 seconds.
+Epoch 98 Loss 2.302605 lr 0.000260 Duration 30.853 seconds.
+Epoch 99 Loss 2.302643 lr 0.000260 Duration 31.072 seconds.
+Epoch 100 Loss 2.302607 lr 0.000260 Duration 30.669 seconds.
+  [eval @ epoch 100] valid loss 2.3028 acc 0.0950 | test loss 2.3026 acc 0.1000
+Checkpoint has been created.
+### Test or Validation ###
+Restored model parameters from /Users/saivignesh/Desktop/projects/TAMU/HW-4_ML/Fall26ML-HW4/ResNet/runs/no_batchnorm_lr0.01/model-100.ckpt
+Test accuracy: 0.0950
+### Test or Validation ###
+Restored model parameters from /Users/saivignesh/Desktop/projects/TAMU/HW-4_ML/Fall26ML-HW4/ResNet/runs/no_batchnorm_lr0.01/model-100.ckpt
+Test accuracy: 0.1000
+===== no_batchnorm lr=0.03  Fri Nov 20 02:28:40 CST 2026
+--- Preparing Data ---
+### Training... ###
+Epoch 1 Loss 240565269.154509 lr 0.030000 Duration 30.349 seconds.
+Epoch 2 Loss 2.303899 lr 0.030000 Duration 30.956 seconds.
+Epoch 3 Loss 2.304049 lr 0.030000 Duration 31.510 seconds.
+Epoch 4 Loss 2.304241 lr 0.030000 Duration 31.385 seconds.
+Epoch 5 Loss 2.303986 lr 0.030000 Duration 31.728 seconds.
+Epoch 6 Loss 2.304611 lr 0.030000 Duration 31.524 seconds.
+Epoch 7 Loss 2.304250 lr 0.030000 Duration 31.420 seconds.
+Epoch 8 Loss 2.305112 lr 0.030000 Duration 31.419 seconds.
+Epoch 9 Loss 2.304414 lr 0.030000 Duration 35.384 seconds.
+Epoch 10 Loss 2.304222 lr 0.030000 Duration 32.503 seconds.
+  [eval @ epoch 10] valid loss 2.3073 acc 0.0970 | test loss 2.3066 acc 0.1000
+Checkpoint has been created.
+Epoch 11 Loss 2.304043 lr 0.020000 Duration 33.931 seconds.
+Epoch 12 Loss 2.303987 lr 0.020000 Duration 32.676 seconds.
+Epoch 13 Loss 2.303857 lr 0.020000 Duration 32.563 seconds.
+Epoch 14 Loss 2.303897 lr 0.020000 Duration 32.140 seconds.
+Epoch 15 Loss 2.307001 lr 0.020000 Duration 35.980 seconds.
+Epoch 16 Loss 2.303941 lr 0.020000 Duration 34.500 seconds.
+Epoch 17 Loss 2.303880 lr 0.020000 Duration 32.441 seconds.
+Epoch 18 Loss 2.303880 lr 0.020000 Duration 33.755 seconds.
+Epoch 19 Loss 506949799.644040 lr 0.020000 Duration 33.449 seconds.
+Epoch 20 Loss 2.303848 lr 0.020000 Duration 31.266 seconds.
+  [eval @ epoch 20] valid loss 2.3040 acc 0.0976 | test loss 2.3038 acc 0.1000
+Checkpoint has been created.
+Epoch 21 Loss 2.303555 lr 0.013333 Duration 31.867 seconds.
+Epoch 22 Loss 2.303376 lr 0.013333 Duration 32.085 seconds.
+Epoch 23 Loss 2.303487 lr 0.013333 Duration 31.916 seconds.
+Epoch 24 Loss 2.303542 lr 0.013333 Duration 32.141 seconds.
+Epoch 25 Loss 2.303446 lr 0.013333 Duration 31.657 seconds.
+Epoch 26 Loss 2.303518 lr 0.013333 Duration 32.062 seconds.
+Epoch 27 Loss 2.303439 lr 0.013333 Duration 31.416 seconds.
+Epoch 28 Loss 309458380.325135 lr 0.013333 Duration 36.968 seconds.
+Epoch 29 Loss 2.303557 lr 0.013333 Duration 40.516 seconds.
+Epoch 30 Loss 2.303661 lr 0.013333 Duration 43.039 seconds.
+  [eval @ epoch 30] valid loss 2.3029 acc 0.0958 | test loss 2.3029 acc 0.1000
+Checkpoint has been created.
+Epoch 31 Loss 2.303301 lr 0.008889 Duration 35.063 seconds.
+Epoch 32 Loss 121068118928.518890 lr 0.008889 Duration 33.989 seconds.
+Epoch 33 Loss 2.303234 lr 0.008889 Duration 33.819 seconds.
+Epoch 34 Loss 2.303275 lr 0.008889 Duration 33.318 seconds.
+Epoch 35 Loss 2.303135 lr 0.008889 Duration 32.394 seconds.
+Epoch 36 Loss 2.303214 lr 0.008889 Duration 31.740 seconds.
+Epoch 37 Loss 2.303219 lr 0.008889 Duration 31.310 seconds.
+Epoch 38 Loss 2.303174 lr 0.008889 Duration 37.294 seconds.
+Epoch 39 Loss 2.303236 lr 0.008889 Duration 39.752 seconds.
+Epoch 40 Loss 2.303296 lr 0.008889 Duration 33.078 seconds.
+  [eval @ epoch 40] valid loss 2.3038 acc 0.1024 | test loss 2.3032 acc 0.1000
+Checkpoint has been created.
+Epoch 41 Loss 2.303098 lr 0.005926 Duration 34.216 seconds.
+Epoch 42 Loss 2.303017 lr 0.005926 Duration 36.102 seconds.
+Epoch 43 Loss 2.303081 lr 0.005926 Duration 33.743 seconds.
+Epoch 44 Loss 2.302886 lr 0.005926 Duration 31.904 seconds.
+Epoch 45 Loss 2.303061 lr 0.005926 Duration 34.336 seconds.
+Epoch 46 Loss 2.303087 lr 0.005926 Duration 31.733 seconds.
+Epoch 47 Loss 2.303176 lr 0.005926 Duration 31.732 seconds.
+Epoch 48 Loss 2.302933 lr 0.005926 Duration 31.280 seconds.
+Epoch 49 Loss 2.302792 lr 0.005926 Duration 32.563 seconds.
+Epoch 50 Loss 2.303018 lr 0.005926 Duration 32.873 seconds.
+  [eval @ epoch 50] valid loss 2.3029 acc 0.0976 | test loss 2.3029 acc 0.1000
+Checkpoint has been created.
+Epoch 51 Loss 2.302959 lr 0.003951 Duration 34.069 seconds.
+Epoch 52 Loss 2.302908 lr 0.003951 Duration 32.038 seconds.
+Epoch 53 Loss 2.302871 lr 0.003951 Duration 30.938 seconds.
+Epoch 54 Loss 2.302864 lr 0.003951 Duration 30.985 seconds.
+Epoch 55 Loss 2.302980 lr 0.003951 Duration 37.290 seconds.
+Epoch 56 Loss 2.302986 lr 0.003951 Duration 39.488 seconds.
+Epoch 57 Loss 2.302880 lr 0.003951 Duration 34.969 seconds.
+Epoch 58 Loss 2.302889 lr 0.003951 Duration 31.242 seconds.
+Epoch 59 Loss 2.302830 lr 0.003951 Duration 31.375 seconds.
+Epoch 60 Loss 630407.401743 lr 0.003951 Duration 31.007 seconds.
+  [eval @ epoch 60] valid loss 2.3030 acc 0.0986 | test loss 2.3028 acc 0.1000
+Checkpoint has been created.
+Epoch 61 Loss 2.302819 lr 0.002634 Duration 34.604 seconds.
+Epoch 62 Loss 2.302816 lr 0.002634 Duration 32.457 seconds.
+Epoch 63 Loss 2.302826 lr 0.002634 Duration 31.366 seconds.
+Epoch 64 Loss 2.302791 lr 0.002634 Duration 31.986 seconds.
+Epoch 65 Loss 2.302816 lr 0.002634 Duration 31.731 seconds.
+Epoch 66 Loss 2.302772 lr 0.002634 Duration 32.282 seconds.
+Epoch 67 Loss 2.302816 lr 0.002634 Duration 31.582 seconds.
+Epoch 68 Loss 2.302809 lr 0.002634 Duration 34.448 seconds.
+Epoch 69 Loss 2.302817 lr 0.002634 Duration 33.781 seconds.
+Epoch 70 Loss 2.302818 lr 0.002634 Duration 33.553 seconds.
+  [eval @ epoch 70] valid loss 2.3029 acc 0.0950 | test loss 2.3026 acc 0.1000
+Checkpoint has been created.
+Epoch 71 Loss 2.302739 lr 0.001756 Duration 39.726 seconds.
+Epoch 72 Loss 2.302754 lr 0.001756 Duration 32.784 seconds.
+Epoch 73 Loss 2.302737 lr 0.001756 Duration 31.794 seconds.
+Epoch 74 Loss 2.302768 lr 0.001756 Duration 31.614 seconds.
+Epoch 75 Loss 2.302734 lr 0.001756 Duration 32.649 seconds.
+Epoch 76 Loss 2.302752 lr 0.001756 Duration 31.306 seconds.
+Epoch 77 Loss 2.302754 lr 0.001756 Duration 32.157 seconds.
+Epoch 78 Loss 2.302742 lr 0.001756 Duration 31.125 seconds.
+Epoch 79 Loss 2.302771 lr 0.001756 Duration 31.081 seconds.
+Epoch 80 Loss 6563.893021 lr 0.001756 Duration 30.941 seconds.
+  [eval @ epoch 80] valid loss 2.3030 acc 0.0958 | test loss 2.3027 acc 0.1000
+Checkpoint has been created.
+Epoch 81 Loss 2.302709 lr 0.001171 Duration 35.923 seconds.
+Epoch 82 Loss 2.302697 lr 0.001171 Duration 40.105 seconds.
+Epoch 83 Loss 2.302690 lr 0.001171 Duration 33.808 seconds.
+Epoch 84 Loss 2.302702 lr 0.001171 Duration 31.679 seconds.
+Epoch 85 Loss 2.302697 lr 0.001171 Duration 30.679 seconds.
+Epoch 86 Loss 2.302695 lr 0.001171 Duration 31.155 seconds.
+Epoch 87 Loss 2.302678 lr 0.001171 Duration 31.055 seconds.
+Epoch 88 Loss 2.302708 lr 0.001171 Duration 31.290 seconds.
+Epoch 89 Loss 2.302688 lr 0.001171 Duration 30.568 seconds.
+Epoch 90 Loss 2.302720 lr 0.001171 Duration 30.647 seconds.
+  [eval @ epoch 90] valid loss 2.3028 acc 0.0976 | test loss 2.3026 acc 0.1000
+Checkpoint has been created.
+Epoch 91 Loss 2.302663 lr 0.000780 Duration 31.903 seconds.
+Epoch 92 Loss 2.302655 lr 0.000780 Duration 31.036 seconds.
+Epoch 93 Loss 2.302656 lr 0.000780 Duration 31.091 seconds.
+Epoch 94 Loss 2.302673 lr 0.000780 Duration 30.754 seconds.
+Epoch 95 Loss 2374.726302 lr 0.000780 Duration 30.955 seconds.
+Epoch 96 Loss 2.302663 lr 0.000780 Duration 31.607 seconds.
+Epoch 97 Loss 8.092507 lr 0.000780 Duration 31.222 seconds.
+Epoch 98 Loss 2.302655 lr 0.000780 Duration 31.123 seconds.
+Epoch 99 Loss 2.302666 lr 0.000780 Duration 32.560 seconds.
+Epoch 100 Loss 126.967263 lr 0.000780 Duration 31.681 seconds.
+  [eval @ epoch 100] valid loss 2.3028 acc 0.0950 | test loss 2.3026 acc 0.1000
+Checkpoint has been created.
+### Test or Validation ###
+Restored model parameters from /Users/saivignesh/Desktop/projects/TAMU/HW-4_ML/Fall26ML-HW4/ResNet/runs/no_batchnorm_lr0.03/model-100.ckpt
+Test accuracy: 0.0950
+### Test or Validation ###
+Restored model parameters from /Users/saivignesh/Desktop/projects/TAMU/HW-4_ML/Fall26ML-HW4/ResNet/runs/no_batchnorm_lr0.03/model-100.ckpt
+Test accuracy: 0.1000
+===== ALL DONE Fri Nov 20 03:24:16 CST 2026
